@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Results from "./components/Results";
 import About from "./components/About";
+import Coverage from "./components/Coverage";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Services />
         <Results />
         <About />
+        <Coverage />
       </main>
     </>
   );

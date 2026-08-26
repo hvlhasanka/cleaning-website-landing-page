@@ -48,7 +48,7 @@ function About() {
 
           <p className="mt-4 text-[14.5px] leading-[23px] text-[#B9CBD1]">
             Founded in 2014, Country Cleaning Service has grown from a
-            two-person team in Delhi into a nationwide network of insured,
+            two-person team in Toronto into a nationwide network of insured,
             trained cleaners. No fine print, no upsells at the door — if any
             promise below isn't met, we make it right at no cost to you.
           </p>
