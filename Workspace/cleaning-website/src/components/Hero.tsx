@@ -1,4 +1,5 @@
 import { FiArrowRight } from "react-icons/fi";
+import Eyebrow from "./Eyebrow";
 
 const STATS = [
   { value: "12,400+", label: "Homes cleaned" },
@@ -10,18 +11,12 @@ function Hero() {
   return (
     <section
       id="home"
-      className="bg-gradient-to-br from-cream via-cream to-mint px-5 py-14 sm:px-8 sm:py-20 lg:px-12 lg:py-24"
+      className="bg-[radial-gradient(94.03%_187.1%_at_85%_20%,rgba(31,158,130,0.14)_0%,rgba(0,0,0,0)_55%),linear-gradient(180deg,#FCFBF8_0%,#EAF4F2_100%)] px-5 py-14 sm:px-8 sm:py-20 lg:px-12 lg:py-24"
     >
       <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-2 lg:gap-16">
         {/* Left column */}
         <div>
-          <p className="flex items-center gap-2.5 text-[12px] font-semibold uppercase leading-[19px] tracking-[1.68px] text-[#1F9E82]">
-            <span
-              className="h-0.5 w-[22px] shrink-0 bg-[#1F9E82]"
-              aria-hidden="true"
-            />
-            Residential &amp; Commercial · Coast to Coast
-          </p>
+          <Eyebrow>Residential &amp; Commercial · Coast to Coast</Eyebrow>
 
           <h1 className="mt-3.5 font-display text-[40px] font-extrabold leading-[1.05] tracking-[-0.02em] text-navy sm:text-[52px] lg:text-[60px]">
             Spotless spaces,{" "}
