@@ -38,9 +38,9 @@ function Services() {
   return (
     <section
       id="services"
-      className="bg-[#FCFBF7] px-5 py-16 sm:px-8 sm:py-20 lg:px-12 lg:py-24"
+      className="bg-[#FCFBF7] px-5 py-16 sm:px-8 sm:py-20 lg:px-[8%] lg:py-24"
     >
-      <div className="mx-auto max-w-7xl">
+      <div className="mx-auto max-w-[1235px]">
         <Eyebrow>What we do</Eyebrow>
 
         <h2 className="mt-3.5 max-w-[600px] font-display text-[32px] font-extrabold leading-[1.3] tracking-[-0.02em] text-navy sm:text-[40px] sm:leading-[64px]">
