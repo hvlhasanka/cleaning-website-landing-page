@@ -15,7 +15,6 @@ const PHONE_NUMBER = "(+91) 999-999-9999";
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // Close the mobile menu on Escape, and lock body scroll while it is open.
   useEffect(() => {
     if (!menuOpen) return;
 
