@@ -1,6 +1,7 @@
 # Cleaning Service Landing Page
 
 Deployment status - [![Netlify Status](https://api.netlify.com/api/v1/badges/9b7bb493-85a2-4586-b2c9-74b78e3e4d27/deploy-status)](https://app.netlify.com/projects/lucaslhh-country-cleaning-service/deploys)
+
 Hosted on - https://lucaslhh-country-cleaning-service.netlify.app/
 
 ## 1. Description
