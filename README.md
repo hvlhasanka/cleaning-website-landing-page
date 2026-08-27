@@ -10,7 +10,7 @@ This is a static, single-page responsive marketing website for a residential/com
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/user-attachments/assets/07f1c1f1-4e83-4daa-9c10-ecda59db702b" width="90%" />
+    <img src="https://raw.githubusercontent.com/hvlhasanka/cleaning-website-landing-page/refs/heads/main/Documentation/Walkthrough/cleaning-website_cover-image.png" width="90%" />
   </kbd>
 </p>
 <p align="center">Figure 1.1: Website Cover</p>
