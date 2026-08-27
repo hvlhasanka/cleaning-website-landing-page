@@ -7,6 +7,7 @@ import Coverage from "./components/Coverage";
 import Pricing from "./components/Pricing";
 import Reviews from "./components/Reviews";
 import GetStarted from "./components/GetStarted";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Reviews />
         <GetStarted />
       </main>
+      <Footer />
     </>
   );
 }
