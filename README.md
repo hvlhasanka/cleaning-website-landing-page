@@ -10,7 +10,7 @@ This is a static, single-page responsive marketing website for a residential/com
 
 <p align="center">
   <kbd>
-    <img src="" width="90%" />
+    <img src="https://github.com/user-attachments/assets/07f1c1f1-4e83-4daa-9c10-ecda59db702b" width="90%" />
   </kbd>
 </p>
 <p align="center">Figure 1.1: Website Cover</p>
@@ -30,12 +30,12 @@ This is a static, single-page responsive marketing website for a residential/com
 ## 3. Walkthrough
 
 <div align="center">
-  
+  <video src="https://github.com/user-attachments/assets/8c26010a-8e6c-4020-bc01-4c09f8a691e9" controls width="80%"></video>
 </div>
 <p align="center">Figure 3.1: Desktop Walkthrough</p>
 
 <div align="center">
-  
+  <video src="https://github.com/user-attachments/assets/d3318826-6c87-432c-9673-d0c028fb1006" controls width="80%"></video>
 </div>
 <p align="center">Figure 3.2: Mobile Walkthrough</p>
 
